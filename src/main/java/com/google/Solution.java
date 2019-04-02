@@ -12,9 +12,7 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
-        Connection conect = new Connection() {
-
-        }
+        System.out.println("Check");
         Cat cat=new Cat();
         cat.name="Murat";
         cat.lastName="Urazbaev";
